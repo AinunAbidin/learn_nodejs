@@ -10,9 +10,11 @@
 
 //contoh tutorial no 10 
 //
-const name = require('./no10.js')
-//melakukan pemanggilan data lain ke dalam variable
-console.log(name)
+const add = require('./no10.js')
+//1.melakukan pemanggilan data lain ke dalam variable
+const sum = add(8, 2)
+//2.melakukan pemanggilan fungsi dari file kita yang lain
+console.log(sum)
 //menampilkan variable
 //////////////////////////////////////////////////////////////////////////////////
 
