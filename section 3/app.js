@@ -19,11 +19,17 @@
 //chalenge//
 // const getNotes = require('./note.js')
 // console.log(coba = getNotes())
-
 //////////////////////////////////////////////////////////////////////////////////
 
 //contoh tutorial no 11 section 3
 //
-const validator = require('validator')
-console.log(validator.isEmail('ainun.ilabaca@gmail.com'))
-console.log(validator.isURL('www.google.com'))
+//const validator = require('validator')
+//console.log(validator.isEmail('ainun.ilabaca@gmail.com'))
+//console.log(validator.isURL('www.google.com'))
+//
+//chalenge
+//const chalk = require('chalk')
+//console.log(chalk.green('success!!!'))
+///////////////////////////////////////////////////////////////////////////
+
+//contoh tutorila no 12 section 3
