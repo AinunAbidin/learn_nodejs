@@ -28,8 +28,15 @@
 //console.log(validator.isURL('www.google.com'))
 //
 //chalenge
-//const chalk = require('chalk')
-//console.log(chalk.green('success!!!'))
+
 ///////////////////////////////////////////////////////////////////////////
 
 //contoh tutorila no 12 section 3
+// const chalk = require('chalk')
+// console.log(chalk.bold.white('success!!!'))
+/////////////////////////////////////////////////////////////////////////
+
+//contoh tutorial no 13 section 3
+const chalk = require('chalk')
+console.log(chalk.green.inverse.bold('Success'))
+
