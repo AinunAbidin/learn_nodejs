@@ -37,4 +37,4 @@
 // const biodata1 = JSON.stringify(datao)
 // console.log(biodata1)
 // fs.writeFileSync('coba.json',biodata1)
-
+/////////////////////////////////////////////////////
